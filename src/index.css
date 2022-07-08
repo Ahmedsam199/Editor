@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.tox-notifications-container{
+  display: none;
+}
+.tox-statusbar__branding{
+  display: none;
+}
